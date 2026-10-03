@@ -1,2 +1,5 @@
-# Use This for suggestions in main js file
-  "/// <reference path="./jquery.d.ts" />"
+# Use this for suggestions in the main JS file
+
+```js
+/// <reference path="./jquery.d.ts" />
+```
